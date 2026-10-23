@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Buddy",
+    "type": "dog",
+    "age": 3,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Whiskers",
+    "type": "cat",
+    "age": 5,
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Coco",
+    "type": "rabbit",
+    "age": 1,
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "Max",
+    "type": "dog",
+    "age": 7,
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Luna",
+    "type": "cat",
+    "age": 2,
+    "available": false
+  }
+]
